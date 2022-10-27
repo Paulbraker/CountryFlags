@@ -1,0 +1,11 @@
+Connect to database
+
+Fix flag generation to only make 3 flags periodically (DONE)
+
+Fix flag generation so it only does 5 rounds per game (DONE)
+
+Save player input (DONE)
+
+Count correct and incorrect answers (DONE)
+
+Mobile first approach

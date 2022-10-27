@@ -1,0 +1,50 @@
+.container-fluid{
+    margin-top: 40px;
+    text-align: center;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+
+h1,h2{
+
+    text-align: center;
+}
+
+.iImg{
+    text-align: right;
+    width: 50px;
+
+}
+
+.kiskep{
+
+    width: 20px;
+    display: inline;
+    margin: 0;
+    border: 1px solid black;
+
+}
+.fixPos{
+    position: fixed;
+    
+}
+
+#a{
+    top: 10px;
+    left: 5px;
+}
+#b{
+    top: 50px;
+    left: 5px;
+}
+#c{
+    top: 90px;
+    left: 5px;
+}
